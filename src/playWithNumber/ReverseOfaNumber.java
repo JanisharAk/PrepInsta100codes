@@ -11,15 +11,25 @@ public class ReverseOfaNumber {
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
         int reverse = 0;
-
-        while (number != 0) {
+//============logic 1=======================
+        while (number > 0) {
             int digit = number % 10;
+            System.out.print("Reverse of number is " + digit);
             reverse = reverse * 10 + digit;
             number /= 10;
         }
 
         System.out.println("Reversed number: " + reverse);
         scanner.close();
+
+        //==============code 2===============================
+        /*
+        while (number > 0) {
+            int digit = number % 10;
+            System.out.print(digit);
+            number /= 10;
+        }
+         */
     }
 }
 /*
