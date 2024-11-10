@@ -29,7 +29,6 @@ public class code26_HarshadNumber {
         } else {
             System.out.println(n + " is not a Harshad number.");
         }
-
         sc.close();
     }
 }
