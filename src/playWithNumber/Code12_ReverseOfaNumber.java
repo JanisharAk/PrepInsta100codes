@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class ReverseOfaNumber {
+public class Code12_ReverseOfaNumber {
     /*
     here we will reverse a number
      */
