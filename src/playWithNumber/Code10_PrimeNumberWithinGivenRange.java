@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class PrimeNumberWithinGivenRange {
+public class Code10_PrimeNumberWithinGivenRange {
 
     /*
     We have to find prime numbers within a given range.
