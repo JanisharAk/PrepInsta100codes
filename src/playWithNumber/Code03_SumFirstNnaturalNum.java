@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class sumFirstNnaturalNum {
+public class Code03_SumFirstNnaturalNum {
 
     //We will find Sum of First N Natural Numbers in Java
     public static void main(String[] args) {
