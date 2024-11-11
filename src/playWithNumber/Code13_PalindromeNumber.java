@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class PalindromeNumber {
+public class Code13_PalindromeNumber {
     /*
     Examples: 123321, 12321, and 121 are palindrome numbers.
      */
