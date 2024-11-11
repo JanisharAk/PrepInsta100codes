@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class ArmstrongNumberInGivenRange {
+public class Code15_ArmstrongNumberInGivenRange {
     /*
     This program finds all Armstrong numbers in a given range.
     Approach will be similar as I have find other question based on ranges.
