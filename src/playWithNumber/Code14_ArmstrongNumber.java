@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class ArmstrongNumber {
+public class Code14_ArmstrongNumber {
     public static void main(String[] args) {
         /*
         An Armstrong number is a positive m-digit number that
