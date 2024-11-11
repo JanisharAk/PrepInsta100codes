@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class FibonacciSeriesUptoNthTerm {
+public class Code16_FibonacciSeriesUptoNthTerm {
     /*
     This program calculates the Fibonacci series up to the nth term.
     The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding ones.
