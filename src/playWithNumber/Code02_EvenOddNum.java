@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class evenOddNum {
+public class Code02_EvenOddNum {
     public static void main(String[] args) {
 
         /*
