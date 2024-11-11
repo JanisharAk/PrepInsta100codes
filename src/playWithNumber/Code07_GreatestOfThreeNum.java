@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class GreatestOfThreeNum {
+public class Code07_GreatestOfThreeNum {
     /*
     we will find greatest of three digit using if else condition
     and comparing each one with another two
