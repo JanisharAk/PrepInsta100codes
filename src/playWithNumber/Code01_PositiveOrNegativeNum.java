@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class PositiveOrNegativeNum {
+public class Code01_PositiveOrNegativeNum {
 
     /*
     here we are going to print positive and negative number
