@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class NthTermOfTheFibonacciSeries {
+public class Code17_NthTermOfTheFibonacciSeries {
     /*
     To solve this code we can use iteration as well as recursion
     but we will use iteration here
