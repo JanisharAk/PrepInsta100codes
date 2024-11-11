@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class PrimeNumber {
+public class Code09_PrimeNumber {
     /*
     we have to find prime number of any given number
     Prime number is divisible by two number either 1 or itself
