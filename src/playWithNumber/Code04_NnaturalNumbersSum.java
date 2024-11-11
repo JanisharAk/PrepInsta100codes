@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class NnaturalNumbersSum {
+public class Code04_NnaturalNumbersSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number : ");
