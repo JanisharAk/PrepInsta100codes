@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class SumOfNumbersInAGivenRange {
+public class Code05_SumOfNumbersInAGivenRange {
     public static void main(String[] args) {
 
         /*
