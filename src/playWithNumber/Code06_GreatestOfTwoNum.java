@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class GreatestOfTwoNum {
+public class Code06_GreatestOfTwoNum {
     public static void main(String[] args) {
         /*
         we will identify the greatest of two number
