@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class LeapYear {
+public class Code08_LeapYear {
     /*
     Here we have to find the leap year
      */
