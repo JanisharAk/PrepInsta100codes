@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class FactorialOfaNumber {
+public class Code18_FactorialOfaNumber {
     /*
     Here we are going to write code for factorial number
     eg.:- 4! = 4*3*2*1
