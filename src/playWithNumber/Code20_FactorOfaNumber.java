@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class FactorOfaNumber {
+public class Code20_FactorOfaNumber {
     /*
     we have to find the factor of a number
      */
