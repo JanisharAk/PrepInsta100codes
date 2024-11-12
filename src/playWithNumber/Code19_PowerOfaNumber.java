@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class PowerOfaNumber {
+public class Code19_PowerOfaNumber {
     /*
     Calculate the power of a number (base^power)
     */
