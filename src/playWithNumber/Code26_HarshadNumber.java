@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class code26_HarshadNumber {
+public class Code26_HarshadNumber {
     /*
     A Harshad number (or Niven number) is an integer that is divisible
     by the sum of its digits. For example, 18 is a Harshad number because
