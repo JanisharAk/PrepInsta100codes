@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class PerfectNumber {
+public class Code23_PerfectNumber {
     /*
      6 is a perfect number because its divisors are 1, 2, and 3, and their sum
     1+2+3=6
