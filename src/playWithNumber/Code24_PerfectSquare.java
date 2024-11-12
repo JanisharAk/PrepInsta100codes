@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class PerfectSquare {
+public class Code24_PerfectSquare {
     /*
     A perfect square is an integer that is the square of another integer.
     In other words, if you multiply an integer by itself, the result is a
