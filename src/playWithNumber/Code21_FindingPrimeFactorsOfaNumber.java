@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class FindingPrimeFactorsOfaNumber {
+public class Code21_FindingPrimeFactorsOfaNumber {
 
     // Method to find and print prime factors of a given number
     public static void primeFactors(int n) {
