@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class AutomorphicNumber {
+public class Code25_AutomorphicNumber {
     /*
     An automorphic number (or circular number) is a number
     whose square ends with the same digits as the number itself.
