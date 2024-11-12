@@ -2,7 +2,7 @@ package playWithNumber;
 
 import java.util.Scanner;
 
-public class StrongNumber {
+public class Code22_StrongNumber {
 
     // Method to calculate factorial of a digit
     public static int factorial(int n) {
