@@ -9,7 +9,6 @@ Enter the range (n): 20
 Enter the exact number of divisors (x): 4
 Output:
 The number of integers with exactly 4 divisors is: 6
-
      */
     // Function to count the divisors of a number
     public static int countDivisors(int num) {
