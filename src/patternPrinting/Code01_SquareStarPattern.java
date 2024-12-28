@@ -1,6 +1,6 @@
 package patternPrinting;
 
-public class Code01_Pattern {
+public class Code01_SquareStarPattern {
     /*
      ****
      ****
