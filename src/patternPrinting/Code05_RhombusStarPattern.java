@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Code05_RhombusStarPattern {
     /*
      ****
-     ****
-     ****
-     ****
+      ****
+       ****
+        ****
      */
     public static void main(String[] args) {
         int rows;
