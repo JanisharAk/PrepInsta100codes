@@ -1,4 +1,4 @@
-package playWithNumber;
+package Part01_playWithNumber;
 
 import java.util.Scanner;
 

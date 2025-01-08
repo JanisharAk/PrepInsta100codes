@@ -1,4 +1,4 @@
-package playWithNumber;
+package Part01_playWithNumber;
 
 public class Code11_SumOfDigitsOfaNumber {
     public static void main (String[]args)
