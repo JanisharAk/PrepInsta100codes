@@ -1,4 +1,4 @@
-package AdvancedCodesRelatedToArrays_06Part;
+package Part06_AdvancedCodesRelatedToArrays;
 
 public class Code01_SortTheArrayWithoutUsingAnyAlgorithm {
     //Given an array which consists of only 0, 1 and 2.
