@@ -1,24 +1,22 @@
-package patternPrinting_07Part;
+package Part07_patternPrinting;
 
 import java.util.Scanner;
 
-public class Code05_RhombusStarPattern {
+public class Code07_MirroredRhombusStarPattern {
     /*
-     ****
-      ****
-       ****
         ****
+       ****
+      ****
+     ****
      */
     public static void main(String[] args) {
-        int rows;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows : ");
-        rows = sc.nextInt();
+        int rows = sc.nextInt();
 
-        // Loop to print upper half of the rhombus
-        for (int i = 1; i <= rows; i++) {
+        for(int i = 1; i <= rows; i++){
             // Print spaces before the stars
-            for (int j = 1; j <= i - 1; j++) {
+            for (int j = i; j < rows; j++) {
                 System.out.print(" ");
             }
             // Print stars after spaces
@@ -28,8 +26,5 @@ public class Code05_RhombusStarPattern {
             // Move to the next line after each row
             System.out.println();
         }
-
-        // Close the scanner
-        sc.close();
     }
 }

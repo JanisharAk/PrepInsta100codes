@@ -1,4 +1,4 @@
-package patternPrinting_07Part;
+package Part07_patternPrinting;
 
 public class Code04_HollowRectangleStarPattern {
     /*
