@@ -1,6 +1,4 @@
-package workingwithNumbers;
-
-import java.util.Scanner;
+package Part03_workingwithNumbers;
 
 public class Code67_CanANumberBeExpressedAsASumOfTwoPrimeNumbers {
     /*

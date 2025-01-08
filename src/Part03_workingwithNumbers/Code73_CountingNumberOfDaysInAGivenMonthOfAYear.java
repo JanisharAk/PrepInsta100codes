@@ -1,4 +1,4 @@
-package workingwithNumbers;
+package Part03_workingwithNumbers;
 
 import java.time.YearMonth;
 import java.util.Scanner;
