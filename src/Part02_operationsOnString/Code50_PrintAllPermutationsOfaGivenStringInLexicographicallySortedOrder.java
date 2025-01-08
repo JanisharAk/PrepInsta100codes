@@ -1,4 +1,4 @@
-package operationsOnString;
+package Part02_operationsOnString;
 
 import java.util.ArrayList;
 import java.util.Collections;

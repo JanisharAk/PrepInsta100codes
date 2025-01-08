@@ -1,4 +1,4 @@
-package operationsOnString;
+package Part02_operationsOnString;
 
 public class Code49_CheckIfTwoStringsMatchWhereOneStringContainsWildcardCharacters {
 

@@ -1,4 +1,4 @@
-package operationsOnString;
+package Part02_operationsOnString;
 
 public class Code47_ReplacingAParticularWordWithAnotherWordInString {
     /*
