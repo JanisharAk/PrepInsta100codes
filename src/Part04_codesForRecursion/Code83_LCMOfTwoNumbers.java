@@ -1,4 +1,4 @@
-package codesForRecursion;
+package Part04_codesForRecursion;
 
 public class Code83_LCMOfTwoNumbers {
     // Recursive method to find GCD

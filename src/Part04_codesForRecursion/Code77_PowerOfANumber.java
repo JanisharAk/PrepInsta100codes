@@ -1,4 +1,4 @@
-package codesForRecursion;
+package Part04_codesForRecursion;
 
 import java.util.Scanner;
 
