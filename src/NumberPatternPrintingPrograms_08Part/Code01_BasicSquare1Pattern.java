@@ -2,7 +2,7 @@ package NumberPatternPrintingPrograms_08Part;
 
 import java.util.Scanner;
 
-public class code01_BasicSquare1Pattern {
+public class Code01_BasicSquare1Pattern {
     /*
            1111
            1111
