@@ -8,6 +8,7 @@ public class Code07_BasicIncrementingTrianglePatternInvertedInitialised {
            44
            555
            6666
+           Input should be 4, then it will print the code
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
