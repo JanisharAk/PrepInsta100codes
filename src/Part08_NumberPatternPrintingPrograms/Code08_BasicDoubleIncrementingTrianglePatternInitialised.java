@@ -1,4 +1,4 @@
-package NumberPatternPrintingPrograms_08Part;
+package Part08_NumberPatternPrintingPrograms;
 
 import java.util.Scanner;
 
